@@ -3,6 +3,6 @@ Welcome there to my website, I make this website for introduct more of my self a
 
 # Get in touch
 * Website : https://anasbraim.netlify.app/
-* Twitter : twitter.com/anas1braim
-* DEV.TO  : dev.to/anas1braim
+* Twitter : https://twitter.com/anas1braim
+* DEV.TO  : https://dev.to/anas1braim
 * LinkdIN : https://www.linkedin.com/in/anas1braim/
